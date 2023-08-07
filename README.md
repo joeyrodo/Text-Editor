@@ -6,9 +6,6 @@
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [Questions](#questions)
-- [License](#license)
 
 ## Description
 - This software allows you to edit text in browser.
