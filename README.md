@@ -1,5 +1,6 @@
 # Joseph Rodante - Text Editor
 
+![screenshot of application](./assets/pictures/screenshot.png "Screenshot of Tech Blog")
 
 ## Table of Contents
 - [Description](#description)
