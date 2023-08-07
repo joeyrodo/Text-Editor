@@ -14,7 +14,7 @@
 
 ## Installation
 - N/A
-- [Link to Application]()
+- [Link to Application](https://jr-text-editor-077c473a9864.herokuapp.com/)
 
 ## Usage
 - Click anywhere to place the cursor.
