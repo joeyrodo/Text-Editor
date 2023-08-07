@@ -6,6 +6,7 @@
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Questions](#questions)
 
 ## Description
 - This software allows you to edit text in browser.
@@ -19,3 +20,8 @@
 - Type to enter characters and words.
 - Press enter to go to the next line.
 - Press the "Install!" to download the applacation and open it outside of the browser.
+
+## Questions
+- Contacts for questions about the software:
+- GitHub: github.com/joeyrodo
+- Email: joeyrodo@gmail.com
